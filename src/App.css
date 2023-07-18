@@ -1,0 +1,12 @@
+.App {
+  padding: 30px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+h1 {
+  font-size: 20px !important;
+}
